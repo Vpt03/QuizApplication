@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bae821b4-ae62-49db-9735-1baf99cd3da1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizGuiDatabase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-9.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/CommonConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/Answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/JDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/CreateQuestionScreenGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/QuizScreenGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/TitleScreenGui.java" afterDir="false" />
+    <list default="true" id="bae821b4-ae62-49db-9735-1baf99cd3da1" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/venkatapranavt/IdeaProjects/QuizGuiDatabase/lib",
+    "last_opened_file_path": "/Users/venkatapranavt/Desktop/QuizGuiDatabase",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -81,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1727438086947</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1728043465019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728043465019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
